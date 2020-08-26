@@ -6,3 +6,9 @@
 >* Bekijk de [Welkomspagina van denken](https://talnet.sharepoint.com/sites/Denkenalsprogrammeur2/SitePages/Denken.aspx) en lees de regels! 
 >* Je kan via het menu van de denken als programmeur website naar de verschillende taken gaan.
 >* Vergeet niet de taken af te vinken in eagledev als je deze via de opdrachten in Teams hebt ingeleverd.
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:96418113
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
